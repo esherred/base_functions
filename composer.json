@@ -1,9 +1,9 @@
 {
     "name": "ericsherred/base-functions",
-    "version": "dev-latest",
+    "version": "dev-master",
     "type": "wordpress-plugin",
     "dist": {
-        "url": "https://github.com/esherred/base_functions.git",
-        "type": "git"
+        "type": "git",
+        "url": "https://github.com/esherred/base_functions.git"
     }
 }
