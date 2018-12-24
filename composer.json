@@ -1,0 +1,10 @@
+{
+    "name": "ericsherred/base-functions",
+    "require": {
+        "composer/installers": "*"
+    },
+    "dist": {
+        "url": "https://github.com/esherred/base_functions.git",
+        "type": "zip"
+    }
+}
