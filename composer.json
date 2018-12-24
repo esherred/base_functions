@@ -5,6 +5,6 @@
     },
     "dist": {
         "url": "https://github.com/esherred/base_functions.git",
-        "type": "zip"
+        "type": "vcs"
     }
 }
