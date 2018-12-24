@@ -1,7 +1,7 @@
 {
     "name": "ericsherred/base-functions",
     "version": "dev-master",
-    "type": "wordpress-plugin",
+    "type": "git",
     "dist": {
         "type": "git",
         "url": "https://github.com/esherred/base_functions.git"
